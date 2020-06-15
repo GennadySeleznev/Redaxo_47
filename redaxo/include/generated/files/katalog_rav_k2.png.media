@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['file_id'] = '4112';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['category_id'] = '384';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['filetype'] = 'image/png';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['filename'] = 'katalog_rav_k2.png';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['originalname'] = 'katalog_rav_k2.png';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['filesize'] = '64869';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['width'] = '185';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['height'] = '245';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['title'] = '';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['createdate'] = '1520780648';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['updatedate'] = '1527238190';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['katalog_rav_k2.png']['med_externlink'] = '';
+?>

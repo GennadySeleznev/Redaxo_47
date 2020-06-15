@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][316]['id'] = '316';
+$REX['MEDIA']['CAT_ID'][316]['name'] = 'Uebersicht Powertech';
+$REX['MEDIA']['CAT_ID'][316]['re_id'] = '313';
+$REX['MEDIA']['CAT_ID'][316]['path'] = '|12|313|';
+$REX['MEDIA']['CAT_ID'][316]['createdate'] = '1491475134';
+$REX['MEDIA']['CAT_ID'][316]['updatedate'] = '1491475134';
+$REX['MEDIA']['CAT_ID'][316]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][316]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][316]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][316]['revision'] = '0';
+?>

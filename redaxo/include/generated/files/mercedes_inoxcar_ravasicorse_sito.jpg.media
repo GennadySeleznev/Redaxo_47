@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['file_id'] = '5482';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['filename'] = 'mercedes_inoxcar_ravasicorse_sito.jpg';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['originalname'] = 'mercedes_inoxcar_ravasicorse_sito.jpg';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['filesize'] = '2001224';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['createdate'] = '1566486072';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['updatedate'] = '1566486072';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['mercedes_inoxcar_ravasicorse_sito.jpg']['med_externlink'] = '';
+?>

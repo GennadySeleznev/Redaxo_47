@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][326]['id'] = '326';
+$REX['MEDIA']['CAT_ID'][326]['name'] = 'Jofiel Ltd Edition';
+$REX['MEDIA']['CAT_ID'][326]['re_id'] = '280';
+$REX['MEDIA']['CAT_ID'][326]['path'] = '|10|273|280|';
+$REX['MEDIA']['CAT_ID'][326]['createdate'] = '1493203295';
+$REX['MEDIA']['CAT_ID'][326]['updatedate'] = '1493203295';
+$REX['MEDIA']['CAT_ID'][326]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][326]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][326]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][326]['revision'] = '0';
+?>

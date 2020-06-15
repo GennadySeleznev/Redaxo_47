@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][537]['id'] = '537';
+$REX['MEDIA']['CAT_ID'][537]['name'] = 'SS Diverses';
+$REX['MEDIA']['CAT_ID'][537]['re_id'] = '536';
+$REX['MEDIA']['CAT_ID'][537]['path'] = '|12|536|';
+$REX['MEDIA']['CAT_ID'][537]['createdate'] = '1552732391';
+$REX['MEDIA']['CAT_ID'][537]['updatedate'] = '1552732391';
+$REX['MEDIA']['CAT_ID'][537]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][537]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][537]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][537]['revision'] = '0';
+?>

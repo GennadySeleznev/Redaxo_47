@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['file_id'] = '5753';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['filename'] = 'pile_con_loghi_e_prodotti.jpg';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['originalname'] = 'pile_con_loghi_e_prodotti.jpg';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['filesize'] = '1875257';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['createdate'] = '1579624737';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['updatedate'] = '1579624737';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['pile_con_loghi_e_prodotti.jpg']['med_externlink'] = '';
+?>

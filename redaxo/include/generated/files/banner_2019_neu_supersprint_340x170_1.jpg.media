@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['file_id'] = '4734';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['filename'] = 'banner_2019_neu_supersprint_340x170_1.jpg';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['originalname'] = 'banner_2019_neu_supersprint_340x170_1.jpg';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['filesize'] = '580646';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['width'] = '340';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['height'] = '170';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['title'] = '2020';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['createdate'] = '1552912012';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['updatedate'] = '1589463605';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['med_link'] = '493';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['banner_2019_neu_supersprint_340x170_1.jpg']['med_externlink'] = '';
+?>

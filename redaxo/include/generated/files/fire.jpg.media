@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['fire.jpg']['file_id'] = '5752';
+$REX['MEDIA']['FILENAME']['fire.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['fire.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['fire.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['fire.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['fire.jpg']['filename'] = 'fire.jpg';
+$REX['MEDIA']['FILENAME']['fire.jpg']['originalname'] = 'fire.jpg';
+$REX['MEDIA']['FILENAME']['fire.jpg']['filesize'] = '996619';
+$REX['MEDIA']['FILENAME']['fire.jpg']['width'] = '2000';
+$REX['MEDIA']['FILENAME']['fire.jpg']['height'] = '1020';
+$REX['MEDIA']['FILENAME']['fire.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['fire.jpg']['createdate'] = '1579078229';
+$REX['MEDIA']['FILENAME']['fire.jpg']['updatedate'] = '1579078229';
+$REX['MEDIA']['FILENAME']['fire.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['fire.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['fire.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['fire.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['fire.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['fire.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['fire.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['fire.jpg']['med_externlink'] = '';
+?>

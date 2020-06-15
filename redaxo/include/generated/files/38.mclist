@@ -1,0 +1,9 @@
+<?php
+$REX['MEDIA']['RE_CAT_ID'][38][0] = '44';
+$REX['MEDIA']['RE_CAT_ID'][38][1] = '42';
+$REX['MEDIA']['RE_CAT_ID'][38][2] = '41';
+$REX['MEDIA']['RE_CAT_ID'][38][3] = '40';
+$REX['MEDIA']['RE_CAT_ID'][38][4] = '45';
+$REX['MEDIA']['RE_CAT_ID'][38][5] = '43';
+$REX['MEDIA']['RE_CAT_ID'][38][6] = '39';
+?>

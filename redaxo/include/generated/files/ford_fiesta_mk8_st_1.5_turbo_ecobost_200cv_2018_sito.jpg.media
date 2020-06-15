@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['file_id'] = '5537';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['filename'] = 'ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['originalname'] = 'ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['filesize'] = '1400099';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['createdate'] = '1569483876';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['updatedate'] = '1569483876';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ford_fiesta_mk8_st_1.5_turbo_ecobost_200cv_2018_sito.jpg']['med_externlink'] = '';
+?>

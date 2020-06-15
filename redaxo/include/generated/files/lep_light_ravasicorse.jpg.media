@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['file_id'] = '5499';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['filename'] = 'lep_light_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['originalname'] = 'lep_light_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['filesize'] = '777194';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['createdate'] = '1567425010';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['updatedate'] = '1567425010';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['lep_light_ravasicorse.jpg']['med_externlink'] = '';
+?>

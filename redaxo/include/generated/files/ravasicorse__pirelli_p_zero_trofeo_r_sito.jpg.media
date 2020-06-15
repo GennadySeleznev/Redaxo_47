@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['file_id'] = '6163';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['filename'] = 'ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['originalname'] = 'ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['filesize'] = '1245949';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['createdate'] = '1586242410';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['updatedate'] = '1586242410';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse__pirelli_p_zero_trofeo_r_sito.jpg']['med_externlink'] = '';
+?>

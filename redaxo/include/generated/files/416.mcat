@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][416]['id'] = '416';
+$REX['MEDIA']['CAT_ID'][416]['name'] = 'Gewindefahrwerk Aufbau';
+$REX['MEDIA']['CAT_ID'][416]['re_id'] = '414';
+$REX['MEDIA']['CAT_ID'][416]['path'] = '|12|414|';
+$REX['MEDIA']['CAT_ID'][416]['createdate'] = '1509957396';
+$REX['MEDIA']['CAT_ID'][416]['updatedate'] = '1509957396';
+$REX['MEDIA']['CAT_ID'][416]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][416]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][416]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][416]['revision'] = '0';
+?>

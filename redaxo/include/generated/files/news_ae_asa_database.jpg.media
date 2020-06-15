@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['file_id'] = '5570';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['filename'] = 'news_ae_asa_database.jpg';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['originalname'] = 'news_ae_asa_database.jpg';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['filesize'] = '604177';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['width'] = '1250';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['height'] = '750';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['createdate'] = '1570693506';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['updatedate'] = '1570693506';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['news_ae_asa_database.jpg']['med_externlink'] = '';
+?>

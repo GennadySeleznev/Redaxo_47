@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['file_id'] = '2703';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['filetype'] = 'image/gif';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['filename'] = 'banner_rallynews_left.gif';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['originalname'] = 'banner_rallynews_left.gif';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['filesize'] = '16233';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['width'] = '175';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['height'] = '120';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['title'] = '';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['createdate'] = '1494345533';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['updatedate'] = '1494345533';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['banner_rallynews_left.gif']['med_externlink'] = '';
+?>

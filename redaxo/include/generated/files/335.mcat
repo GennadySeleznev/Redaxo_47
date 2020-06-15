@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][335]['id'] = '335';
+$REX['MEDIA']['CAT_ID'][335]['name'] = 'Evocorse Classic';
+$REX['MEDIA']['CAT_ID'][335]['re_id'] = '330';
+$REX['MEDIA']['CAT_ID'][335]['path'] = '|10|273|330|';
+$REX['MEDIA']['CAT_ID'][335]['createdate'] = '1498641694';
+$REX['MEDIA']['CAT_ID'][335]['updatedate'] = '1498641694';
+$REX['MEDIA']['CAT_ID'][335]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][335]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][335]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][335]['revision'] = '0';
+?>

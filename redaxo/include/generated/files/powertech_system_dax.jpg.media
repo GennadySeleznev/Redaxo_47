@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['file_id'] = '4337';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['category_id'] = '315';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['filename'] = 'powertech_system_dax.jpg';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['originalname'] = 'powertech_system_dax.jpg';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['filesize'] = '536763';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['width'] = '1052';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['height'] = '517';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['createdate'] = '1544196673';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['updatedate'] = '1544196673';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['powertech_system_dax.jpg']['med_externlink'] = '';
+?>

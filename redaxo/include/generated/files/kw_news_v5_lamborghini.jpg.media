@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['file_id'] = '5676';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['filename'] = 'kw_news_v5_lamborghini.jpg';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['originalname'] = 'kw_news_v5_lamborghini.jpg';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['filesize'] = '245667';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['width'] = '600';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['height'] = '395';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['createdate'] = '1574939780';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['updatedate'] = '1574939780';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_v5_lamborghini.jpg']['med_externlink'] = '';
+?>

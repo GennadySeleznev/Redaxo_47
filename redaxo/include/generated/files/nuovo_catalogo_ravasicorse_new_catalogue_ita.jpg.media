@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['file_id'] = '6073';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['filename'] = 'nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['originalname'] = 'nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['filesize'] = '2481470';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['height'] = '1440';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['createdate'] = '1584459250';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['updatedate'] = '1584459250';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['nuovo_catalogo_ravasicorse_new_catalogue_ita.jpg']['med_externlink'] = '';
+?>

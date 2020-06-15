@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['file_id'] = '5576';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['filename'] = 'ravasicorse_batterie_sparco_sito.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['originalname'] = 'ravasicorse_batterie_sparco_sito.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['filesize'] = '2090331';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['createdate'] = '1570694879';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['updatedate'] = '1570694879';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_batterie_sparco_sito.jpg']['med_externlink'] = '';
+?>

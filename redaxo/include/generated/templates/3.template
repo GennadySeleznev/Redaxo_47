@@ -1,0 +1,24 @@
+<?php
+
+$PATH = explode("|",$this->getValue("path").$this->getValue("article_id")."|");
+
+echo '<ul class="nav nav-pills pull-right small-nav visible-desktop">';
+foreach (OOCategory::getRootCategories() as $lev1)
+{
+	if($lev1->isOnline() == 1) {
+		if($lev1->getValue("cat_link") != "") {
+			$link = $lev1->getValue("cat_link");
+		} else {
+			$link = $lev1->getUrl();
+		}
+		if($lev1->getId() == $PATH[1])
+		echo '<li class="active"><a href="'.$link.'">'.$lev1->getName().'</a>';
+		else
+		echo '<li><a href="'.$link.'">'.$lev1->getName().'</a>';
+		
+		echo '</li>';
+	}
+}
+echo '</ul>';
+
+?>

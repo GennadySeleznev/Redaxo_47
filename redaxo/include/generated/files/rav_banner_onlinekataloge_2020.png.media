@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['file_id'] = '5777';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['category_id'] = '7';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['filetype'] = 'image/png';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['filename'] = 'rav_banner_onlinekataloge_2020.png';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['originalname'] = 'rav_banner_onlinekataloge_2020.png';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['filesize'] = '749500';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['width'] = '549';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['height'] = '499';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['title'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['createdate'] = '1583158570';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['updatedate'] = '1583158570';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_onlinekataloge_2020.png']['med_externlink'] = '';
+?>

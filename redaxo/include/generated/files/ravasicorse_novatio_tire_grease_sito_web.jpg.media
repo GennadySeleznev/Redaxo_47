@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['file_id'] = '6205';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['filename'] = 'ravasicorse_novatio_tire_grease_sito_web.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['originalname'] = 'ravasicorse_novatio_tire_grease_sito_web.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['filesize'] = '1488424';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['createdate'] = '1587105253';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['updatedate'] = '1587105253';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_novatio_tire_grease_sito_web.jpg']['med_externlink'] = '';
+?>

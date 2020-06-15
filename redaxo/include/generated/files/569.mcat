@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][569]['id'] = '569';
+$REX['MEDIA']['CAT_ID'][569]['name'] = 'GMP Fasten';
+$REX['MEDIA']['CAT_ID'][569]['re_id'] = '544';
+$REX['MEDIA']['CAT_ID'][569]['path'] = '|10|544|';
+$REX['MEDIA']['CAT_ID'][569]['createdate'] = '1583251202';
+$REX['MEDIA']['CAT_ID'][569]['updatedate'] = '1583251202';
+$REX['MEDIA']['CAT_ID'][569]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][569]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][569]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][569]['revision'] = '0';
+?>

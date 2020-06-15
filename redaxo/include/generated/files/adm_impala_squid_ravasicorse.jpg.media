@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['file_id'] = '6215';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['filename'] = 'adm_impala_squid_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['originalname'] = 'adm_impala_squid_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['filesize'] = '913645';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['width'] = '1350';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['height'] = '600';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['createdate'] = '1587374393';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['updatedate'] = '1587374393';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['adm_impala_squid_ravasicorse.jpg']['med_externlink'] = '';
+?>

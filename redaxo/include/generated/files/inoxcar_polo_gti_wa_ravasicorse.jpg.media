@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['file_id'] = '5735';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['filename'] = 'inoxcar_polo_gti_wa_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['originalname'] = 'inoxcar_polo_gti_wa_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['filesize'] = '2308241';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['createdate'] = '1576081160';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['updatedate'] = '1576081160';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['inoxcar_polo_gti_wa_ravasicorse.jpg']['med_externlink'] = '';
+?>

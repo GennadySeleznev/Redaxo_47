@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['file_id'] = '6292';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['filename'] = 'kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['originalname'] = 'kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['filesize'] = '142554';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['width'] = '750';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['height'] = '434';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['createdate'] = '1588246572';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['updatedate'] = '1588246572';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_bmw_3er_g21_touring_xdrive_newsbild.jpg']['med_externlink'] = '';
+?>

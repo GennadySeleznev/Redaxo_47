@@ -1,0 +1,13 @@
+<?php
+$REX['MEDIA']['RE_CAT_ID'][77][0] = '78';
+$REX['MEDIA']['RE_CAT_ID'][77][1] = '79';
+$REX['MEDIA']['RE_CAT_ID'][77][2] = '80';
+$REX['MEDIA']['RE_CAT_ID'][77][3] = '81';
+$REX['MEDIA']['RE_CAT_ID'][77][4] = '82';
+$REX['MEDIA']['RE_CAT_ID'][77][5] = '83';
+$REX['MEDIA']['RE_CAT_ID'][77][6] = '84';
+$REX['MEDIA']['RE_CAT_ID'][77][7] = '85';
+$REX['MEDIA']['RE_CAT_ID'][77][8] = '86';
+$REX['MEDIA']['RE_CAT_ID'][77][9] = '87';
+$REX['MEDIA']['RE_CAT_ID'][77][10] = '88';
+?>

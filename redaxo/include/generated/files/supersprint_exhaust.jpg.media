@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['file_id'] = '4684';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['category_id'] = '536';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['filename'] = 'supersprint_exhaust.jpg';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['originalname'] = 'supersprint_exhaust.jpg';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['filesize'] = '802494';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['width'] = '1063';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['height'] = '500';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['createdate'] = '1552719314';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['updatedate'] = '1552911628';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['supersprint_exhaust.jpg']['med_externlink'] = '';
+?>

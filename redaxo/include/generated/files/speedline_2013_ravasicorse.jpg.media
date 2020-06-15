@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['file_id'] = '5464';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['filename'] = 'speedline_2013_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['originalname'] = 'speedline_2013_ravasicorse.jpg';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['filesize'] = '133657';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['width'] = '933';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['height'] = '417';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['createdate'] = '1564738778';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['updatedate'] = '1564738778';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['speedline_2013_ravasicorse.jpg']['med_externlink'] = '';
+?>

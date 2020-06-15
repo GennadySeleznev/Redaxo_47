@@ -1,0 +1,834 @@
+?><?php if ($this->ctype == '1' || ($this->ctype == '-1')) { ?><?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('<style type="text/css" media="all"> <!-- .rot	/*agl rulekind: base;*/ { color: #f00; } .gold	/*agl rulekind: base;*/ { color: #963; } .blau	/*agl rulekind: base;*/ { color: #0080FF; } .orange	/*agl rulekind: base;*/ { color: #FF9D08; } --></style>').'</b>';
+
+} else { 
+
+print '<style type="text/css" media="all"> <!-- .rot	/*agl rulekind: base;*/ { color: #f00; } .gold	/*agl rulekind: base;*/ { color: #963; } .blau	/*agl rulekind: base;*/ { color: #0080FF; } .orange	/*agl rulekind: base;*/ { color: #FF9D08; } --></style>';
+
+} ?>
+<?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('<div id="myCarousel" class="carousel slide">
+<ol class="carousel-indicators hidden">
+
+<li class="active" data-target="#myCarousel" data-slide-to="0"></li>
+        <li data-target="#myCarousel" data-slide-to=1></li>
+        <li data-target="#myCarousel" data-slide-to=2></li>
+        <li data-target="#myCarousel" data-slide-to=3></li>
+        <li data-target="#myCarousel" data-slide-to=4></li>
+        <li data-target="#myCarousel" data-slide-to=5></li>
+        <li data-target="#myCarousel" data-slide-to=6></li>
+        <li data-target="#myCarousel" data-slide-to=7></li>
+        <li data-target="#myCarousel" data-slide-to=8></li>
+        <li data-target="#myCarousel" data-slide-to=9></li>
+        <li data-target="#myCarousel" data-slide-to=10></li>
+        <li data-target="#myCarousel" data-slide-to=11></li>
+        <li data-target="#myCarousel" data-slide-to=12></li>
+        <li data-target="#myCarousel" data-slide-to=13></li>
+        <li data-target="#myCarousel" data-slide-to=14></li>
+        <li data-target="#myCarousel" data-slide-to=15></li>
+        <li data-target="#myCarousel" data-slide-to=16></li>
+        <li data-target="#myCarousel" data-slide-to=17></li>
+        <li data-target="#myCarousel" data-slide-to=18></li>
+        <li data-target="#myCarousel" data-slide-to=19></li>
+        <li data-target="#myCarousel" data-slide-to=20></li>
+        <li data-target="#myCarousel" data-slide-to=21></li>
+        <li data-target="#myCarousel" data-slide-to=22></li>
+        <li data-target="#myCarousel" data-slide-to=23></li>
+        <li data-target="#myCarousel" data-slide-to=24></li>
+        <li data-target="#myCarousel" data-slide-to=25></li>      
+        <li data-target="#myCarousel" data-slide-to=26></li>      
+        <li data-target="#myCarousel" data-slide-to=27></li>      
+        <li data-target="#myCarousel" data-slide-to=28></li>      
+        <li data-target="#myCarousel" data-slide-to=29></li>      
+        <li data-target="#myCarousel" data-slide-to=30></li>     
+        <li data-target="#myCarousel" data-slide-to=31></li>     
+        <li data-target="#myCarousel" data-slide-to=32></li>     
+        <li data-target="#myCarousel" data-slide-to=33></li>     
+        <li data-target="#myCarousel" data-slide-to=34></li>     
+        <li data-target="#myCarousel" data-slide-to=35></li>     
+        <li data-target="#myCarousel" data-slide-to=36></li>     
+        <li data-target="#myCarousel" data-slide-to=37></li>     
+        <li data-target="#myCarousel" data-slide-to=38></li>     
+        <li data-target="#myCarousel" data-slide-to=39></li>     
+        <li data-target="#myCarousel" data-slide-to=40></li>     
+        <li data-target="#myCarousel" data-slide-to=41></li>     
+  
+    
+    
+    
+    
+    
+  </ol>
+ 
+    
+    
+<div class="carousel-inner">
+
+      
+
+<!--     Zeilen sortieren RAVASI HOME -->
+    
+    <div class="item active"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_20_rav_printkataloge.jpg" alt=""></a></div>    
+    <div class="item"><a href="/downloads/online-catalogs.html"><img src="files/slides_new/slider_20_rav_web_update.jpg" alt=""></a></div>  
+    <div class="item"><a href="/applications/tuning-aluraeder.html?detail=true&name=IMPALA"><img src="files/slides_new/slider_20_rav_adm_impala.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_advan_bmw.jpg" alt=""></a></div>    
+    <div class="item"><a href="https://www.ravasicorse.ch/files/RAV_K1W_2020.pdf#page=58"><img src="files/slides_new/slider_20_rav_dlw_etabeta_laserwriting.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/sports-exhausts/supersprint.html"><img src="files/slides_new/slider_20_rav_supersprint.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_aff09.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/ap-sportfahrwerke/overview.html"><img src="files/slides_new/slider_20_rav_ap_sportfahrwerke.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/sports-exhausts/fox-exhaust-systems.html"><img src="files/slides_new/slider_20_rav_fox_new_brand.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/sports-suspensions/autex-springs.html"><img src="files/slides_new/slider_20_rav_autex_springs.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/wheel-spacers/powertech-easy-fit-series-car-kits/powertech-easy-fit.html"><img src="files/slides_new/slider_20_rav_powertech_easyfit.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_aff06_mustang.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/st-suspensions/st-individualization.html"><img src="files/slides_new/slider_20_rav_st_individual.jpg" alt=""></a></div> 
+    <div class="item"><a href="https://www.ravasicorse.ch/files/rav_k1i_2020_v2.pdf#page=54"><img src="files/slides_new/slider_20_rav_kw_classic.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_inoxcar.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-exhausts/inoxcar-racing.html"><img src="files/slides_new/slider_19_news_inoxcar.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_supersprint_porsche.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/aftermarket-wheels/overview.html"><img src="files/slides_new/slider_19_news_aaa_dedicated.jpg" alt=""></a></div>    
+    <div class="item"><a href="/applications/tuning-aluraeder.html?detail=true&name=AFF09"><img src="files/slides_new/slider_19_news_ace_aff09.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_amg_gt.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/car-racing-parts/brakes/pagid-racing.html"><img src="files/slides_new/slider_19_news_pagid_racing.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_aff02_bmw.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_frau_an_autotuere.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/racing-tyres/advan-yokohama.html"><img src="files/slides_new/slider_19_news_yokohama_advan.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/kw-suspensions/overview.html"><img src="files/slides_new/slider_19_news_kw.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_frau_hinter_steuer.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/tuning-wheels/advan-racing.html"><img src="files/slides_new/slider_19_news_advan_r6_fz-f2.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/tuning-wheels/wedssport.html"><img src="files/slides_new/slider_19_news_weds_1.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_driven_nissan.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/car-racing-parts/overview.html"><img src="files/slides_new/slider_19_news_r_racing_parts.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/oehlins-coilovers.html"><img src="files/slides_new/slider_19_news_oehlins.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_lamborghini.jpg" alt=""></a></div>    
+    <div class="item"><a href="/applications/tuning-aluraeder.html?detail=true&name=DRIVEN"><img src="files/slides_new/slider_19_news_ace_driven_golf_gti.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_evocorse_wueste.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/racing-wheels/evocorse-classic.html"><img src="files/slides_new/slider_19_news_evocorse_classic.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/racing-protective-wear/fia-helmets/stilo.html"><img src="files/slides_new/slider_19_news_stilo.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/st-suspensions/overview.html"><img src="files/slides_new/slider_19_news_st.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/car-racing-parts/brakes/cl-brakes.html"><img src="files/slides_new/slider_19_news_cl_brakes.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_leon_hardiritt_chevlon.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/tuning-wheels/leon-hardiritt.html"><img src="files/slides_new/slider_19_news_leon_hardiritt.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_powertech_schnee.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/certificates.html"><img src="files/slides_new/slider_19_news_certificates_englisch.jpg" alt=""></a></div>    
+    
+    
+    
+
+
+    
+    
+    
+      
+<!--     Schluss alle -->
+
+  </div>
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+</div>').'</b>';
+
+} else { 
+
+print '<div id="myCarousel" class="carousel slide">
+<ol class="carousel-indicators hidden">
+
+<li class="active" data-target="#myCarousel" data-slide-to="0"></li>
+        <li data-target="#myCarousel" data-slide-to=1></li>
+        <li data-target="#myCarousel" data-slide-to=2></li>
+        <li data-target="#myCarousel" data-slide-to=3></li>
+        <li data-target="#myCarousel" data-slide-to=4></li>
+        <li data-target="#myCarousel" data-slide-to=5></li>
+        <li data-target="#myCarousel" data-slide-to=6></li>
+        <li data-target="#myCarousel" data-slide-to=7></li>
+        <li data-target="#myCarousel" data-slide-to=8></li>
+        <li data-target="#myCarousel" data-slide-to=9></li>
+        <li data-target="#myCarousel" data-slide-to=10></li>
+        <li data-target="#myCarousel" data-slide-to=11></li>
+        <li data-target="#myCarousel" data-slide-to=12></li>
+        <li data-target="#myCarousel" data-slide-to=13></li>
+        <li data-target="#myCarousel" data-slide-to=14></li>
+        <li data-target="#myCarousel" data-slide-to=15></li>
+        <li data-target="#myCarousel" data-slide-to=16></li>
+        <li data-target="#myCarousel" data-slide-to=17></li>
+        <li data-target="#myCarousel" data-slide-to=18></li>
+        <li data-target="#myCarousel" data-slide-to=19></li>
+        <li data-target="#myCarousel" data-slide-to=20></li>
+        <li data-target="#myCarousel" data-slide-to=21></li>
+        <li data-target="#myCarousel" data-slide-to=22></li>
+        <li data-target="#myCarousel" data-slide-to=23></li>
+        <li data-target="#myCarousel" data-slide-to=24></li>
+        <li data-target="#myCarousel" data-slide-to=25></li>      
+        <li data-target="#myCarousel" data-slide-to=26></li>      
+        <li data-target="#myCarousel" data-slide-to=27></li>      
+        <li data-target="#myCarousel" data-slide-to=28></li>      
+        <li data-target="#myCarousel" data-slide-to=29></li>      
+        <li data-target="#myCarousel" data-slide-to=30></li>     
+        <li data-target="#myCarousel" data-slide-to=31></li>     
+        <li data-target="#myCarousel" data-slide-to=32></li>     
+        <li data-target="#myCarousel" data-slide-to=33></li>     
+        <li data-target="#myCarousel" data-slide-to=34></li>     
+        <li data-target="#myCarousel" data-slide-to=35></li>     
+        <li data-target="#myCarousel" data-slide-to=36></li>     
+        <li data-target="#myCarousel" data-slide-to=37></li>     
+        <li data-target="#myCarousel" data-slide-to=38></li>     
+        <li data-target="#myCarousel" data-slide-to=39></li>     
+        <li data-target="#myCarousel" data-slide-to=40></li>     
+        <li data-target="#myCarousel" data-slide-to=41></li>     
+  
+    
+    
+    
+    
+    
+  </ol>
+ 
+    
+    
+<div class="carousel-inner">
+
+      
+
+<!--     Zeilen sortieren RAVASI HOME -->
+    
+    <div class="item active"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_20_rav_printkataloge.jpg" alt=""></a></div>    
+    <div class="item"><a href="/downloads/online-catalogs.html"><img src="files/slides_new/slider_20_rav_web_update.jpg" alt=""></a></div>  
+    <div class="item"><a href="/applications/tuning-aluraeder.html?detail=true&name=IMPALA"><img src="files/slides_new/slider_20_rav_adm_impala.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_advan_bmw.jpg" alt=""></a></div>    
+    <div class="item"><a href="https://www.ravasicorse.ch/files/RAV_K1W_2020.pdf#page=58"><img src="files/slides_new/slider_20_rav_dlw_etabeta_laserwriting.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/sports-exhausts/supersprint.html"><img src="files/slides_new/slider_20_rav_supersprint.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_aff09.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/ap-sportfahrwerke/overview.html"><img src="files/slides_new/slider_20_rav_ap_sportfahrwerke.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/sports-exhausts/fox-exhaust-systems.html"><img src="files/slides_new/slider_20_rav_fox_new_brand.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/sports-suspensions/autex-springs.html"><img src="files/slides_new/slider_20_rav_autex_springs.jpg" alt=""></a></div> 
+    <div class="item"><a href="/products/wheel-spacers/powertech-easy-fit-series-car-kits/powertech-easy-fit.html"><img src="files/slides_new/slider_20_rav_powertech_easyfit.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_aff06_mustang.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/st-suspensions/st-individualization.html"><img src="files/slides_new/slider_20_rav_st_individual.jpg" alt=""></a></div> 
+    <div class="item"><a href="https://www.ravasicorse.ch/files/rav_k1i_2020_v2.pdf#page=54"><img src="files/slides_new/slider_20_rav_kw_classic.jpg" alt=""></a></div> 
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_inoxcar.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-exhausts/inoxcar-racing.html"><img src="files/slides_new/slider_19_news_inoxcar.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_supersprint_porsche.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/aftermarket-wheels/overview.html"><img src="files/slides_new/slider_19_news_aaa_dedicated.jpg" alt=""></a></div>    
+    <div class="item"><a href="/applications/tuning-aluraeder.html?detail=true&name=AFF09"><img src="files/slides_new/slider_19_news_ace_aff09.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_amg_gt.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/car-racing-parts/brakes/pagid-racing.html"><img src="files/slides_new/slider_19_news_pagid_racing.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_aff02_bmw.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_frau_an_autotuere.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/racing-tyres/advan-yokohama.html"><img src="files/slides_new/slider_19_news_yokohama_advan.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/kw-suspensions/overview.html"><img src="files/slides_new/slider_19_news_kw.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_frau_hinter_steuer.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/tuning-wheels/advan-racing.html"><img src="files/slides_new/slider_19_news_advan_r6_fz-f2.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/tuning-wheels/wedssport.html"><img src="files/slides_new/slider_19_news_weds_1.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_ace_driven_nissan.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/car-racing-parts/overview.html"><img src="files/slides_new/slider_19_news_r_racing_parts.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/oehlins-coilovers.html"><img src="files/slides_new/slider_19_news_oehlins.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_lamborghini.jpg" alt=""></a></div>    
+    <div class="item"><a href="/applications/tuning-aluraeder.html?detail=true&name=DRIVEN"><img src="files/slides_new/slider_19_news_ace_driven_golf_gti.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_evocorse_wueste.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/racing-wheels/evocorse-classic.html"><img src="files/slides_new/slider_19_news_evocorse_classic.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/racing-protective-wear/fia-helmets/stilo.html"><img src="files/slides_new/slider_19_news_stilo.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/sports-suspensions/st-suspensions/overview.html"><img src="files/slides_new/slider_19_news_st.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/car-racing-parts/brakes/cl-brakes.html"><img src="files/slides_new/slider_19_news_cl_brakes.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_leon_hardiritt_chevlon.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/wheels/tuning-wheels/leon-hardiritt.html"><img src="files/slides_new/slider_19_news_leon_hardiritt.jpg" alt=""></a></div>    
+    <div class="item"><a href="/contact/contact-form.html"><img src="files/slides_new/slider_19_sw_kombi_rav_powertech_schnee.jpg" alt=""></a></div>    
+    <div class="item"><a href="/products/certificates.html"><img src="files/slides_new/slider_19_news_certificates_englisch.jpg" alt=""></a></div>    
+    
+    
+    
+
+
+    
+    
+    
+      
+<!--     Schluss alle -->
+
+  </div>
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+</div>';
+
+} ?>
+<?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('<div class="hero-unit homehero">
+<div class="row">
+<div class="span9">').'</b>';
+
+} else { 
+
+print '<div class="hero-unit homehero">
+<div class="row">
+<div class="span9">';
+
+} ?>
+<?php 
+
+$qry = "select * from rex_article_slice where modultyp_id='35' and a356_is_online='1' and clang='".$REX['CUR_CLANG']."' order by value20 desc";
+$sql = new sql();
+$result = $sql->get_array($qry);
+
+
+//Slider Nav ausgeben
+?>
+
+<div id="myCarouselNews" class="carousel slide">
+<h3 class="carousel-header">News</h3><br />
+	  <p class="carousel-header pull-right news_navi"><a class="left carousel-control" href="#myCarouselNews" data-slide="prev">&lsaquo;</a><a class="right carousel-control" href="#myCarouselNews" data-slide="next">&rsaquo;</a></p>
+	<ol class="carousel-indicators hidden">
+
+<?php
+
+$i = 0;
+foreach($result as $row)
+{		
+  
+		if($i == 0) {
+			print '<li class="active" data-target="#myCarouselNews" data-slide-to="'.$i.'"></li>';
+		} else {
+			print '<li data-target="#myCarouselNews" data-slide-to="'.$i.'"></li>';
+		}	
+	$i++;
+}
+
+?>      
+
+  </ol>
+  <div class="carousel-inner">
+  
+<?php
+
+$i = 0;
+foreach($result as $row)
+{	
+
+		if($i == 0) {
+			print '<div class="item active"><div class="row-fluid">';
+		} else {
+			print '<div class="item"><div class="row-fluid">';
+		}
+	
+	
+			print '<div class="span12">';
+                        
+                            if ($row['value4'] != "") {
+                                print '<h4><a href="' . $row['value4'] . '">' . $row['value2'] . '</a></h4>';
+                            } else {
+                                print '<h4>' . $row['value2'] . '</h4>';
+                            }
+
+ 
+			$bild = OOMedia::getMediaByName($row['file1']);
+			$bildname = $bild->getFileName();
+			$bildtitel = $bild->getTitle();
+						
+						        print '<a class="popup" href="index.php?rex_img_type=image_lightbox&rex_img_file='.$bildname.'"><img class="newsbild" src="index.php?rex_img_type=image_products&rex_img_file='.$bildname.'" alt="'.$bildtitel.'"></a>';
+			
+			// Get Maintext
+			$wysiwigvalue = $row['value3'];
+			
+			if (trim($wysiwigvalue) <> '')
+			{
+			   $maintext = $wysiwigvalue;
+			}
+                        
+                        
+                         $textparts = explode('###readmore###', $maintext);
+
+    print $textparts[0];
+                        
+                        
+			
+                
+                           
+                           $imgvalue = $row['filelist6'];
+                           $fulltext = $row['value5'];
+                           $link_id = $row['article_id'];
+                           $news_id = $row['id'];
+                           $fulllink = rex_getUrl($link_id).'#'.$news_id;
+                        
+                           
+                           
+                            if ($imgvalue != "" || $fulltext != "") {
+                           
+                            print '<br><a href="'.$fulllink.'">read more</a>';
+                            
+                            }
+                        
+		
+			print '<h6>Date: '.$row['value1'].'</h6>';
+                        
+                      
+			
+			print '</div>';
+
+		print '</div></div>';
+	
+	$i++;
+}
+
+?>   
+
+  </div>
+
+
+</div>
+
+
+
+
+
+   <?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('</div><div class="span2 pull-right">
+<h3></h3>').'</b>';
+
+} else { 
+
+print '</div><div class="span2 pull-right">
+<h3></h3>';
+
+} ?>
+<?php
+
+$files = "";
+if ("banner_2019_neu_supersprint_340x170_1.jpg,banner_2018_rav_rennsport_i.jpg" != "") {
+	$files = "banner_2019_neu_supersprint_340x170_1.jpg,banner_2018_rav_rennsport_i.jpg";
+
+?>
+
+<div id="myCarouselWerbung1" class="carousel fade">
+	<ol class="carousel-indicators hidden">
+
+<?php   			 
+	if($files != "") {       
+		$files2 = explode(",",$files);       
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			if ($i == 0)  { 				
+				print '<li class="active" data-target="#myCarousel3" data-slide-to="0"></li>';             
+			} else {					
+				print '<li data-target="#myCarousel3" data-slide-to='.$i.'></li>';           
+			}
+				$i = $i+1;
+		}
+	}			
+?>           
+  </ol>
+  <div class="carousel-inner">
+<?php      
+	if($files != "") {    
+		$files2 = explode(",",$files);
+		
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			$bild = OOMedia::getMediaByName($file);
+			$bildname = $bild->getFileName();
+			$bildtitel = $bild->getTitle();
+			$bildbeschreibung = $bild->getDescription();
+			$bildlink = $bild->getValue("med_link");
+                        $externbildlink = $bild->getValue("med_externlink");
+			$textbutton = $bild->getValue("med_buttontext");			
+			if ($i == 0)  { 				
+				print '<div class="item active ">';
+				$i = 1;
+			} else {					
+				print '<div class="item">';
+			}
+                        if ($externbildlink != "") { ?><a target="blank" href="<?php echo $externbildlink;?>">
+                            
+                        <?php } 
+			
+			else if ($bildlink != "") { ?><a href="<?php echo rex_getUrl($bildlink); if ($REX['CUR_CLANG'] != 0) echo '?clang='.$REX['CUR_CLANG'];?>">
+                       
+                        
+                        <?php
+                        }
+			print '<img src="index.php?rex_img_type=image_slider&rex_img_file='.$bildname.'" alt="'.$bildtitel.'">';
+                        
+                        
+                        
+                        if ($externbildlink != "" || $bildlink != "") print '</a>';
+			
+			
+			print '</div>';
+		}
+	} 
+    ?>    
+
+  </div>
+  <a class="left carousel-control hidden" href="#myCarousel3" data-slide="prev">&lsaquo;</a>
+  <a class="right carousel-control hidden" href="#myCarousel3" data-slide="next">&rsaquo;</a>
+</div>
+
+<?php
+
+} else {
+print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}
+
+?><?php
+
+$files = "";
+if ("banner_2019_sabelt_340x170.jpg,banner_2019_sabelt_stilo_340x170_1.jpg" != "") {
+	$files = "banner_2019_sabelt_340x170.jpg,banner_2019_sabelt_stilo_340x170_1.jpg";
+
+?>
+
+<div id="myCarouselWerbung2" class="carousel fade">
+	<ol class="carousel-indicators hidden">
+
+<?php   			 
+	if($files != "") {       
+		$files2 = explode(",",$files);       
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			if ($i == 0)  { 				
+				print '<li class="active" data-target="#myCarousel4" data-slide-to="0"></li>';             
+			} else {					
+				print '<li data-target="#myCarousel4" data-slide-to='.$i.'></li>';           
+			}
+				$i = $i+1;
+		}
+	}			
+?>           
+  </ol>
+ <div class="carousel-inner">
+<?php      
+	if($files != "") {    
+		$files2 = explode(",",$files);
+		
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			$bild = OOMedia::getMediaByName($file);
+			$bildname = $bild->getFileName();
+			$bildtitel = $bild->getTitle();
+			$bildbeschreibung = $bild->getDescription();
+			$bildlink = $bild->getValue("med_link");
+                        $externbildlink = $bild->getValue("med_externlink");
+			$textbutton = $bild->getValue("med_buttontext");			
+			if ($i == 0)  { 				
+				print '<div class="item active ">';
+				$i = 1;
+			} else {					
+				print '<div class="item">';
+			}
+                        if ($externbildlink != "") { ?><a target="blank" href="<?php echo $externbildlink;?>">
+                            
+                        <?php } 
+			
+			else if ($bildlink != "") { ?><a href="<?php echo rex_getUrl($bildlink); if ($REX['CUR_CLANG'] != 0) echo '?clang='.$REX['CUR_CLANG'];?>">
+                       
+                        
+                        <?php
+                        }
+			print '<img src="index.php?rex_img_type=image_slider&rex_img_file='.$bildname.'" alt="'.$bildtitel.'">';
+                        
+                        
+                        
+                        if ($externbildlink != "" || $bildlink != "") print '</a>';
+			
+			
+			print '</div>';
+		}
+	} 
+    ?>    
+
+  </div>
+  <a class="left carousel-control hidden" href="#myCarousel4" data-slide="prev">&lsaquo;</a>
+  <a class="right carousel-control hidden" href="#myCarousel4" data-slide="next">&rsaquo;</a>
+</div>
+
+<?php
+
+} else {
+print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}
+
+?><?php
+
+$files = "";
+if ("banner_2020_product_selection_340x170.jpg,banner_2020_powertech_easy_fit_340x170.jpg" != "") {
+	$files = "banner_2020_product_selection_340x170.jpg,banner_2020_powertech_easy_fit_340x170.jpg";
+
+?>
+
+<div id="myCarouselWerbung3" class="carousel fade">
+	<ol class="carousel-indicators hidden">
+
+<?php   			 
+	if($files != "") {       
+		$files2 = explode(",",$files);       
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			if ($i == 0)  { 				
+				print '<li class="active" data-target="#myCarousel5" data-slide-to="0"></li>';             
+			} else {					
+				print '<li data-target="#myCarousel5" data-slide-to='.$i.'></li>';           
+			}
+				$i = $i+1;
+		}
+	}			
+?>           
+  </ol>
+  <div class="carousel-inner">
+<?php      
+	if($files != "") {    
+		$files2 = explode(",",$files);
+		
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			$bild = OOMedia::getMediaByName($file);
+			$bildname = $bild->getFileName();
+			$bildtitel = $bild->getTitle();
+			$bildbeschreibung = $bild->getDescription();
+			$bildlink = $bild->getValue("med_link");
+                        $externbildlink = $bild->getValue("med_externlink");
+			$textbutton = $bild->getValue("med_buttontext");			
+			if ($i == 0)  { 				
+				print '<div class="item active ">';
+				$i = 1;
+			} else {					
+				print '<div class="item">';
+			}
+                        if ($externbildlink != "") { ?><a target="blank" href="<?php echo $externbildlink;?>">
+                            
+                        <?php } 
+			
+			else if ($bildlink != "") { ?><a href="<?php echo rex_getUrl($bildlink); if ($REX['CUR_CLANG'] != 0) echo '?clang='.$REX['CUR_CLANG'];?>">
+                       
+                        
+                        <?php
+                        }
+			print '<img src="index.php?rex_img_type=image_slider&rex_img_file='.$bildname.'" alt="'.$bildtitel.'">';
+                        
+                        
+                        
+                        if ($externbildlink != "" || $bildlink != "") print '</a>';
+			
+			
+			print '</div>';
+		}
+	} 
+    ?>    
+
+  </div>
+  <a class="left carousel-control hidden" href="#myCarousel5" data-slide="prev">&lsaquo;</a>
+  <a class="right carousel-control hidden" href="#myCarousel5" data-slide="next">&rsaquo;</a>
+</div>
+
+<?php
+
+} else {
+print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}
+
+?><?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('</div></div></div>
+<div class="row">
+<div class="span4 text-center">').'</b>';
+
+} else { 
+
+print '</div></div></div>
+<div class="row">
+<div class="span4 text-center">';
+
+} ?>
+<?php if ("rav_banner_produkteuebersicht_1.png"!="" && true && ("72"!="" || false))
+
+{
+
+  	$bild = OOMedia::getMediaByName("rav_banner_produkteuebersicht_1.png");
+	$bildname = $bild->getFileName();
+	$bildtitel = $bild->getTitle();
+    if(false) {
+        $url = "";   
+    } else if ("72"!="") {
+        $url = rex_getUrl(72, $REX["CUR_CLANG"]);
+    } else {
+        $url = "";
+    }
+	
+	?>
+    <div class="oneimage ">
+     <?php      
+	 			print '<a href="'.$url.'">';       
+                print '<img src="index.php?rex_img_type=image_productsbig&rex_img_file='.$bildname.'" alt="'.$bildtitel.'"></a>';
+				print '<div><h1>Prodotti (Panoramica)</h1></div>'; 
+	?> 
+    </div> 
+<?php
+} else {
+print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}  
+
+?><?php
+
+if (true)
+{
+
+	// Get Maintext
+	$wysiwigvalue = <<< EOT
+<p>Nella nostra vasta gamma siete sicuri di trovare il giusto prodotto...</p>
+EOT;
+	
+	if (trim($wysiwigvalue) <> '')
+	{
+	   $maintext = $wysiwigvalue;
+	}
+	
+	print $maintext;
+
+} else {
+	print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}  
+
+?><?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('</div>
+<div class="span4 text-center">
+').'</b>';
+
+} else { 
+
+print '</div>
+<div class="span4 text-center">
+';
+
+} ?>
+<?php if ("rav_banner_onlinekataloge_2020.png"!="" && true && ("201"!="" || false))
+
+{
+
+  	$bild = OOMedia::getMediaByName("rav_banner_onlinekataloge_2020.png");
+	$bildname = $bild->getFileName();
+	$bildtitel = $bild->getTitle();
+    if(false) {
+        $url = "";   
+    } else if ("201"!="") {
+        $url = rex_getUrl(201, $REX["CUR_CLANG"]);
+    } else {
+        $url = "";
+    }
+	
+	?>
+    <div class="oneimage ">
+     <?php      
+	 			print '<a href="'.$url.'">';       
+                print '<img src="index.php?rex_img_type=image_productsbig&rex_img_file='.$bildname.'" alt="'.$bildtitel.'"></a>';
+				print '<div><h1>Catalogo online</h1></div>'; 
+	?> 
+    </div> 
+<?php
+} else {
+print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}  
+
+?><?php
+
+if (true)
+{
+
+	// Get Maintext
+	$wysiwigvalue = <<< EOT
+<p>Cataloghi ora anche in versione online con ancora pi&ugrave; informazioni e immagini!</p>
+EOT;
+	
+	if (trim($wysiwigvalue) <> '')
+	{
+	   $maintext = $wysiwigvalue;
+	}
+	
+	print $maintext;
+
+} else {
+	print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}  
+
+?><?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('</div><div class="span4 text-center">
+').'</b>';
+
+} else { 
+
+print '</div><div class="span4 text-center">
+';
+
+} ?>
+<?php if ("rav_banner_fzanwendungen_1.png"!="" && true && ("227"!="" || false))
+
+{
+
+  	$bild = OOMedia::getMediaByName("rav_banner_fzanwendungen_1.png");
+	$bildname = $bild->getFileName();
+	$bildtitel = $bild->getTitle();
+    if(false) {
+        $url = "";   
+    } else if ("227"!="") {
+        $url = rex_getUrl(227, $REX["CUR_CLANG"]);
+    } else {
+        $url = "";
+    }
+	
+	?>
+    <div class="oneimage ">
+     <?php      
+	 			print '<a href="'.$url.'">';       
+                print '<img src="index.php?rex_img_type=image_productsbig&rex_img_file='.$bildname.'" alt="'.$bildtitel.'"></a>';
+				print '<div><h1>Applicazioni per veicoli</h1></div>'; 
+	?> 
+    </div> 
+<?php
+} else {
+print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}  
+
+?><?php
+
+if (true)
+{
+
+	// Get Maintext
+	$wysiwigvalue = <<< EOT
+<p>Trovate un corretto prodotto tuning per la vostra auto.</p>
+EOT;
+	
+	if (trim($wysiwigvalue) <> '')
+	{
+	   $maintext = $wysiwigvalue;
+	}
+	
+	print $maintext;
+
+} else {
+	print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}  
+
+?><?php if ($REX['REDAXO']) { 
+
+print '<b>'.htmlentities('</div>
+</div>').'</b>';
+
+} else { 
+
+print '</div>
+</div>';
+
+} ?>
+<?php } ?>

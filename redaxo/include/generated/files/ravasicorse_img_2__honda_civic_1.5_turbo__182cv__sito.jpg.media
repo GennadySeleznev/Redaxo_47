@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['file_id'] = '5533';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['filename'] = 'ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['originalname'] = 'ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['filesize'] = '1732314';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['createdate'] = '1568965282';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['updatedate'] = '1568965282';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_img_2__honda_civic_1.5_turbo__182cv__sito.jpg']['med_externlink'] = '';
+?>

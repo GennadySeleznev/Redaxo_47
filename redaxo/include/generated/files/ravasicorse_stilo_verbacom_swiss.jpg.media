@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['file_id'] = '5761';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['filename'] = 'ravasicorse_stilo_verbacom_swiss.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['originalname'] = 'ravasicorse_stilo_verbacom_swiss.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['filesize'] = '216350';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['width'] = '1202';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['height'] = '643';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['createdate'] = '1580803552';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['updatedate'] = '1580803552';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_stilo_verbacom_swiss.jpg']['med_externlink'] = '';
+?>

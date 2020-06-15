@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['file_id'] = '5421';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['filename'] = 'news_filemanager_update_2019.jpg';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['originalname'] = 'news_filemanager_update_2019.jpg';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['filesize'] = '154920';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['width'] = '1000';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['height'] = '587';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['createdate'] = '1562324846';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['updatedate'] = '1562324846';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['news_filemanager_update_2019.jpg']['med_externlink'] = '';
+?>

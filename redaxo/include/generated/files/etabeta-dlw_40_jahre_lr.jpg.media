@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['file_id'] = '2730';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['filename'] = 'etabeta-dlw_40_jahre_lr.jpg';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['originalname'] = 'etabeta-dlw_40_jahre_lr.jpg';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['filesize'] = '97357';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['width'] = '750';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['height'] = '529';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['createdate'] = '1494834640';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['updatedate'] = '1494834640';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['etabeta-dlw_40_jahre_lr.jpg']['med_externlink'] = '';
+?>

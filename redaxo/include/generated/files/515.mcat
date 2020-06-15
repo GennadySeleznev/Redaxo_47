@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][515]['id'] = '515';
+$REX['MEDIA']['CAT_ID'][515]['name'] = 'Leon Hardiritt Gemuet (neue Farbe)';
+$REX['MEDIA']['CAT_ID'][515]['re_id'] = '481';
+$REX['MEDIA']['CAT_ID'][515]['path'] = '|10|481|';
+$REX['MEDIA']['CAT_ID'][515]['createdate'] = '1551188612';
+$REX['MEDIA']['CAT_ID'][515]['updatedate'] = '1551188612';
+$REX['MEDIA']['CAT_ID'][515]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][515]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][515]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][515]['revision'] = '0';
+?>

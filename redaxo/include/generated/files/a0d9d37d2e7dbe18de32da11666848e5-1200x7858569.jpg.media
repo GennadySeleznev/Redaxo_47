@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['file_id'] = '3780';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['filename'] = 'a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['originalname'] = 'a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['filesize'] = '288165';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['width'] = '1200';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['height'] = '785';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['createdate'] = '1513671029';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['updatedate'] = '1513671029';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['a0d9d37d2e7dbe18de32da11666848e5-1200x7858569.jpg']['med_externlink'] = '';
+?>

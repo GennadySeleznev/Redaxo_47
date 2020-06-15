@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['file_id'] = '5754';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['filename'] = 'abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['originalname'] = 'abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['filesize'] = '1557891';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['createdate'] = '1580283668';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['updatedate'] = '1580283668';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['abbigliamento_ignifugo_ravasicorse_rally_racing_wear.jpg']['med_externlink'] = '';
+?>

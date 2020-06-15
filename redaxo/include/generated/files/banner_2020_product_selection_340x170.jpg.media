@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['file_id'] = '6300';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['filename'] = 'banner_2020_product_selection_340x170.jpg';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['originalname'] = 'banner_2020_product_selection_340x170.jpg';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['filesize'] = '1002551';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['width'] = '340';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['height'] = '170';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['title'] = '2020';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['createdate'] = '1589462972';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['updatedate'] = '1589464035';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['med_link'] = '573';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['banner_2020_product_selection_340x170.jpg']['med_externlink'] = '';
+?>

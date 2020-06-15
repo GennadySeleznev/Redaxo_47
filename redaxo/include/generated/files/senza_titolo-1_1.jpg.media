@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['file_id'] = '5760';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['filename'] = 'senza_titolo-1_1.jpg';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['originalname'] = 'senza_titolo-1_1.jpg';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['filesize'] = '1535693';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['createdate'] = '1580747586';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['updatedate'] = '1580747586';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['senza_titolo-1_1.jpg']['med_externlink'] = '';
+?>

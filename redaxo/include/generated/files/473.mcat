@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][473]['id'] = '473';
+$REX['MEDIA']['CAT_ID'][473]['name'] = 'RS-DF Progressive';
+$REX['MEDIA']['CAT_ID'][473]['re_id'] = '467';
+$REX['MEDIA']['CAT_ID'][473]['path'] = '|10|431|467|';
+$REX['MEDIA']['CAT_ID'][473]['createdate'] = '1526366412';
+$REX['MEDIA']['CAT_ID'][473]['updatedate'] = '1526366412';
+$REX['MEDIA']['CAT_ID'][473]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][473]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][473]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][473]['revision'] = '0';
+?>

@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['file_id'] = '5468';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['filename'] = 'fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['originalname'] = 'fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['filesize'] = '1270518';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['width'] = '1920';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['height'] = '1440';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['createdate'] = '1564739480';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['updatedate'] = '1564739480';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['fa7d3a1e-5cd9-4381-a379-f4a7901727ea.jpg']['med_externlink'] = '';
+?>

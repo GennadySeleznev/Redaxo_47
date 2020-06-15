@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['file_id'] = '5788';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['filename'] = 'ravasicorse_abarth___hlins_1.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['originalname'] = 'ravasicorse_abarth___hlins_1.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['filesize'] = '3053855';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['width'] = '2400';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['createdate'] = '1583228360';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['updatedate'] = '1583228360';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_abarth___hlins_1.jpg']['med_externlink'] = '';
+?>

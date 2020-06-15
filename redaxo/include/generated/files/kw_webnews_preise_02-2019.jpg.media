@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['file_id'] = '4340';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['filename'] = 'kw_webnews_preise_02-2019.jpg';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['originalname'] = 'kw_webnews_preise_02-2019.jpg';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['filesize'] = '1063930';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['height'] = '685';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['createdate'] = '1549037693';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['updatedate'] = '1549037693';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['kw_webnews_preise_02-2019.jpg']['med_externlink'] = '';
+?>

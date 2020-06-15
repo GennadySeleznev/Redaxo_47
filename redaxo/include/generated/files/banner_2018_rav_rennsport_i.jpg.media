@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['file_id'] = '4769';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['filename'] = 'banner_2018_rav_rennsport_i.jpg';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['originalname'] = 'banner_2018_rav_rennsport_i.jpg';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['filesize'] = '771591';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['width'] = '340';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['height'] = '170';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['title'] = '2020';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['createdate'] = '1553003083';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['updatedate'] = '1589463592';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['med_link'] = '239';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['banner_2018_rav_rennsport_i.jpg']['med_externlink'] = '';
+?>

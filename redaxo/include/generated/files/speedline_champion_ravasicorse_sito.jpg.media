@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['file_id'] = '5516';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['filename'] = 'speedline_champion_ravasicorse_sito.jpg';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['originalname'] = 'speedline_champion_ravasicorse_sito.jpg';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['filesize'] = '1786440';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['createdate'] = '1568101357';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['updatedate'] = '1568101357';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['speedline_champion_ravasicorse_sito.jpg']['med_externlink'] = '';
+?>

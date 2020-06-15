@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][423]['id'] = '423';
+$REX['MEDIA']['CAT_ID'][423]['name'] = 'Coilover Springs';
+$REX['MEDIA']['CAT_ID'][423]['re_id'] = '414';
+$REX['MEDIA']['CAT_ID'][423]['path'] = '|12|414|';
+$REX['MEDIA']['CAT_ID'][423]['createdate'] = '1519741270';
+$REX['MEDIA']['CAT_ID'][423]['updatedate'] = '1519741270';
+$REX['MEDIA']['CAT_ID'][423]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][423]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][423]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][423]['revision'] = '0';
+?>

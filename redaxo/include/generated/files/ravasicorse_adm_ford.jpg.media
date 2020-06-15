@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['file_id'] = '5246';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['filename'] = 'ravasicorse_adm_ford.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['originalname'] = 'Ravasicorse_Adm_Ford.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['filesize'] = '465117';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['width'] = '1070';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['height'] = '498';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['title'] = 'ADM Octopus';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['createdate'] = '1558086146';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['updatedate'] = '1558086200';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_adm_ford.jpg']['med_externlink'] = 'https://www.ravasicorse.ch/applications/tuning-aluraeder.html?detail=true&name=OCTOPUS';
+?>

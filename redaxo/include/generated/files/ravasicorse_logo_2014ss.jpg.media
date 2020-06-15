@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['file_id'] = '6067';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['filename'] = 'ravasicorse_logo_2014ss.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['originalname'] = 'ravasicorse_logo_2014ss.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['filesize'] = '1056133';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['createdate'] = '1584441639';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['updatedate'] = '1584441639';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_logo_2014ss.jpg']['med_externlink'] = '';
+?>

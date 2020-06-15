@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][518]['id'] = '518';
+$REX['MEDIA']['CAT_ID'][518]['name'] = 'Leon Hardiritt LF-S1 Forged';
+$REX['MEDIA']['CAT_ID'][518]['re_id'] = '481';
+$REX['MEDIA']['CAT_ID'][518]['path'] = '|10|481|';
+$REX['MEDIA']['CAT_ID'][518]['createdate'] = '1551188640';
+$REX['MEDIA']['CAT_ID'][518]['updatedate'] = '1551188640';
+$REX['MEDIA']['CAT_ID'][518]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][518]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][518]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][518]['revision'] = '0';
+?>

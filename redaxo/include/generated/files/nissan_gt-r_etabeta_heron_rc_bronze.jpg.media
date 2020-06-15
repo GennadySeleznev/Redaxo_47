@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['file_id'] = '2701';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['filename'] = 'nissan_gt-r_etabeta_heron_rc_bronze.jpg';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['originalname'] = 'nissan_gt-r_etabeta_heron_rc_bronze.jpg';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['filesize'] = '102346';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['width'] = '960';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['height'] = '635';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['createdate'] = '1494344863';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['updatedate'] = '1494344863';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['nissan_gt-r_etabeta_heron_rc_bronze.jpg']['med_externlink'] = '';
+?>

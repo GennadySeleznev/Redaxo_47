@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['file_id'] = '5771';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['filename'] = 'ravasicorse_inoxcar_alpine.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['originalname'] = 'ravasicorse_inoxcar_alpine.jpg';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['filesize'] = '1784053';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['width'] = '2600';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['createdate'] = '1582807521';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['updatedate'] = '1582807521';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['ravasicorse_inoxcar_alpine.jpg']['med_externlink'] = '';
+?>

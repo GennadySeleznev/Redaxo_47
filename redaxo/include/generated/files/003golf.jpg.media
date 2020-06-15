@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['003golf.jpg']['file_id'] = '5251';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['filename'] = '003golf.jpg';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['originalname'] = '003golf.jpg';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['filesize'] = '1600582';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['width'] = '1920';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['height'] = '1170';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['title'] = 'EtaBeta Amos';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['createdate'] = '1558509674';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['updatedate'] = '1558509674';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['003golf.jpg']['med_externlink'] = '';
+?>

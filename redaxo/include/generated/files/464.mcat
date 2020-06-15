@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][464]['id'] = '464';
+$REX['MEDIA']['CAT_ID'][464]['name'] = 'CC-Zero unpainted';
+$REX['MEDIA']['CAT_ID'][464]['re_id'] = '462';
+$REX['MEDIA']['CAT_ID'][464]['path'] = '|10|431|462|';
+$REX['MEDIA']['CAT_ID'][464]['createdate'] = '1523093298';
+$REX['MEDIA']['CAT_ID'][464]['updatedate'] = '1523093298';
+$REX['MEDIA']['CAT_ID'][464]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][464]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][464]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][464]['revision'] = '0';
+?>

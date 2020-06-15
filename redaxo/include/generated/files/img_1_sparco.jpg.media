@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['file_id'] = '5605';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['filename'] = 'img_1_sparco.jpg';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['originalname'] = 'img_1_sparco.jpg';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['filesize'] = '269195';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['width'] = '800';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['height'] = '355';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['createdate'] = '1571901549';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['updatedate'] = '1571901549';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['img_1_sparco.jpg']['med_externlink'] = '';
+?>

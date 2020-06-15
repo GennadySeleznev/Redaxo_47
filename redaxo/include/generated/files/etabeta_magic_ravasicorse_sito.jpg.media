@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['file_id'] = '6273';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['filename'] = 'etabeta_magic_ravasicorse_sito.jpg';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['originalname'] = 'etabeta_magic_ravasicorse_sito.jpg';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['filesize'] = '1575939';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['width'] = '2699';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['height'] = '1400';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['createdate'] = '1588054245';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['updatedate'] = '1588054245';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['etabeta_magic_ravasicorse_sito.jpg']['med_externlink'] = '';
+?>

@@ -1,0 +1,77 @@
+?><?php if ($this->ctype == '1' || ($this->ctype == '-1')) { ?><?php
+
+$files = "";
+if ("logoslide1.png,logoslide2.png,logoslide3.png,logoslide4.png,logoslide5.png" != "") {
+	$files = "logoslide1.png,logoslide2.png,logoslide3.png,logoslide4.png,logoslide5.png";
+
+?>
+
+<div id="myCarouselLogos" class="carousel slide">
+	<ol class="carousel-indicators hidden">
+
+<?php   			 
+	if($files != "") {       
+		$files2 = explode(",",$files);       
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			if ($i == 0)  { 				
+				print '<li class="active" data-target="#myCarousel2" data-slide-to="0"></li>';             
+			} else {					
+				print '<li data-target="#myCarousel2" data-slide-to='.$i.'></li>';           
+			}
+				$i = $i+1;
+		}
+	}			
+?>           
+  </ol>
+  <div class="carousel-inner">
+<?php      
+	if($files != "") {    
+		$files2 = explode(",",$files);
+		
+		$i = 0;
+		
+		foreach ($files2 as $file)
+		{
+			$bild = OOMedia::getMediaByName($file);
+			$bildname = $bild->getFileName();
+			$bildtitel = $bild->getTitle();
+			$bildbeschreibung = $bild->getDescription();
+			$bildlink = $bild->getValue("med_link");
+			$textbutton = $bild->getValue("med_buttontext");			
+			if ($i == 0)  { 				
+				print '<div class="item active ">';
+				$i = 1;
+			} else {					
+				print '<div class="item">';
+			}
+			
+			
+			print '<img src="index.php?rex_img_type=image_slider&rex_img_file='.$bildname.'" alt="'.$bildtitel.'">';
+			
+			if ($bildlink != "") {
+				
+				print '<div class="carousel-caption">';
+				
+				if ($bildlink != "") print '<a href="'.$bildlink.'" class="btn-large btn-primary" type="button">'.$textbutton.'</a>';
+				print '</div>';
+			}
+			print '</div>';
+		}
+	} 
+    ?>    
+
+  </div>
+  <a class="left carousel-control hidden" href="#myCarousel2" data-slide="prev">&lsaquo;</a>
+  <a class="right carousel-control hidden" href="#myCarousel2" data-slide="next">&rsaquo;</a>
+</div>
+
+<?php
+
+} else {
+print 'Bitte füllen Sie alle erforderlichen Felder aus.';
+}
+
+?><?php } ?>

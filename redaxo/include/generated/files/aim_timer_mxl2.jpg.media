@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['file_id'] = '2702';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['filename'] = 'aim_timer_mxl2.jpg';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['originalname'] = 'aim_timer_mxl2.jpg';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['filesize'] = '76890';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['width'] = '960';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['height'] = '539';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['createdate'] = '1494345465';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['updatedate'] = '1494345465';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['aim_timer_mxl2.jpg']['med_externlink'] = '';
+?>

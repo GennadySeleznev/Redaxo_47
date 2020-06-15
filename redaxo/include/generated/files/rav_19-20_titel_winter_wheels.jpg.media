@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['file_id'] = '5476';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['filename'] = 'rav_19-20_titel_winter_wheels.jpg';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['originalname'] = 'rav_19-20_titel_winter_wheels.jpg';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['filesize'] = '229857';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['width'] = '531';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['height'] = '750';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['createdate'] = '1565337525';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['updatedate'] = '1565337525';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['rav_19-20_titel_winter_wheels.jpg']['med_externlink'] = '';
+?>

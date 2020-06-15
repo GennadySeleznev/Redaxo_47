@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['file_id'] = '5461';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['filename'] = 'kw_news_toyota_supra_gr_v3.jpg';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['originalname'] = 'kw_news_toyota_supra_gr_v3.jpg';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['filesize'] = '112021';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['width'] = '600';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['height'] = '395';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['createdate'] = '1563873696';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['updatedate'] = '1563873696';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['kw_news_toyota_supra_gr_v3.jpg']['med_externlink'] = '';
+?>

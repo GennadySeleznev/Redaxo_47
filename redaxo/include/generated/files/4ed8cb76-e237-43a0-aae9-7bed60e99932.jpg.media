@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['file_id'] = '5306';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['filename'] = '4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['originalname'] = '4ed8cb76-e237-43a0-aae9-7bed60e99932.JPG';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['filesize'] = '928518';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['width'] = '1920';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['height'] = '1252';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['title'] = 'Cupra';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['createdate'] = '1559825769';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['updatedate'] = '1559825769';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['4ed8cb76-e237-43a0-aae9-7bed60e99932.jpg']['med_externlink'] = '';
+?>

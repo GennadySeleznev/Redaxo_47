@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['file_id'] = '4319';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['filename'] = 'rav_news_etabeta_magic.jpg';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['originalname'] = 'rav_news_etabeta_magic.jpg';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['filesize'] = '805489';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['width'] = '2161';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['height'] = '886';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['createdate'] = '1538744868';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['updatedate'] = '1538744868';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['rav_news_etabeta_magic.jpg']['med_externlink'] = '';
+?>

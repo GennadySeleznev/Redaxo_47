@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][403]['id'] = '403';
+$REX['MEDIA']['CAT_ID'][403]['name'] = 'FIA Wear';
+$REX['MEDIA']['CAT_ID'][403]['re_id'] = '329';
+$REX['MEDIA']['CAT_ID'][403]['path'] = '|329|';
+$REX['MEDIA']['CAT_ID'][403]['createdate'] = '1503923641';
+$REX['MEDIA']['CAT_ID'][403]['updatedate'] = '1503923641';
+$REX['MEDIA']['CAT_ID'][403]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][403]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][403]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][403]['revision'] = '0';
+?>

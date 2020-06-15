@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['file_id'] = '5793';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['category_id'] = '0';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['filename'] = 'x167-mercedes-benz-gls-12.jpg';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['originalname'] = 'x167-mercedes-benz-gls-12.jpg';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['filesize'] = '474749';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['width'] = '1200';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['height'] = '675';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['createdate'] = '1583249099';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['updatedate'] = '1583249099';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['x167-mercedes-benz-gls-12.jpg']['med_externlink'] = '';
+?>

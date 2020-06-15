@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['file_id'] = '4593';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['category_id'] = '7';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['filetype'] = 'image/png';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['filename'] = 'rav_banner_produkteuebersicht_1.png';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['originalname'] = 'rav_banner_produkteuebersicht_1.png';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['filesize'] = '868108';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['width'] = '549';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['height'] = '499';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['title'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['createdate'] = '1551431344';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['updatedate'] = '1551431344';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['updateuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['rav_banner_produkteuebersicht_1.png']['med_externlink'] = '';
+?>

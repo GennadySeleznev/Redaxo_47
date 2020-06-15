@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['logoslide3.png']['file_id'] = '33';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['filetype'] = 'image/png';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['filename'] = 'logoslide3.png';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['originalname'] = 'logoslide3.png';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['filesize'] = '52008';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['width'] = '1170';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['height'] = '149';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['title'] = 'logoslide3';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['createdate'] = '1382948977';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['updatedate'] = '1432027931';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['createuser'] = 'admin';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['updateuser'] = 'rolf';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['logoslide3.png']['med_externlink'] = '';
+?>

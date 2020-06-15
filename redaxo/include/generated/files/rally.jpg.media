@@ -1,0 +1,23 @@
+<?php
+$REX['MEDIA']['FILENAME']['rally.jpg']['file_id'] = '3777';
+$REX['MEDIA']['FILENAME']['rally.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['rally.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['rally.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['rally.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['rally.jpg']['filename'] = 'rally.jpg';
+$REX['MEDIA']['FILENAME']['rally.jpg']['originalname'] = 'rally.jpg';
+$REX['MEDIA']['FILENAME']['rally.jpg']['filesize'] = '185337';
+$REX['MEDIA']['FILENAME']['rally.jpg']['width'] = '1334';
+$REX['MEDIA']['FILENAME']['rally.jpg']['height'] = '750';
+$REX['MEDIA']['FILENAME']['rally.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['rally.jpg']['createdate'] = '1511536026';
+$REX['MEDIA']['FILENAME']['rally.jpg']['updatedate'] = '1511536026';
+$REX['MEDIA']['FILENAME']['rally.jpg']['createuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['rally.jpg']['updateuser'] = 'ravasi';
+$REX['MEDIA']['FILENAME']['rally.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['rally.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['rally.jpg']['med_copyright'] = '';
+$REX['MEDIA']['FILENAME']['rally.jpg']['med_link'] = '';
+$REX['MEDIA']['FILENAME']['rally.jpg']['med_buttontext'] = '';
+$REX['MEDIA']['FILENAME']['rally.jpg']['med_externlink'] = '';
+?>

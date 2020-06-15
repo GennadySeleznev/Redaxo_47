@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][445]['id'] = '445';
+$REX['MEDIA']['CAT_ID'][445]['name'] = 'ACE Planet Gold Edition';
+$REX['MEDIA']['CAT_ID'][445]['re_id'] = '440';
+$REX['MEDIA']['CAT_ID'][445]['path'] = '|10|431|440|';
+$REX['MEDIA']['CAT_ID'][445]['createdate'] = '1523092547';
+$REX['MEDIA']['CAT_ID'][445]['updatedate'] = '1523092547';
+$REX['MEDIA']['CAT_ID'][445]['createuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][445]['updateuser'] = 'admin';
+$REX['MEDIA']['CAT_ID'][445]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][445]['revision'] = '0';
+?>
